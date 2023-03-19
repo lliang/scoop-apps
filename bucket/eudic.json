@@ -1,9 +1,9 @@
 {
-    "version": "12.7.1",
+    "version": "2023-03-16",
     "description": "权威的英语词典软件 英语学习者必备的工具",
     "homepage": "https://www.eudic.net/",
     "license": "BSD-3-Clause",
-    "url": "https://static.frdic.com/pkg/eudic_win.zip",
+    "url": "https://www.eudic.net/download/eudic_win.zip?v=2023-03-16",
     "installer": {
         "script": [
             "Expand-7ZipArchive \"$dir\\eudic_win.exe\" \"$dir\\\" -Removal",
